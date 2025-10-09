@@ -35,7 +35,10 @@ cd FaceEmoji
 python emoji_reactor.py
 ```
 Make sure you have an emojis/ folder containing:
-<pre> ```bash emojis/ ├── straight.png ├── smile.png └── handsup.png ``` </pre>
+emojis/
+├── straight.png
+├── smile.png
+└── handsup.png
 
 ## 🧩 Tech Stack
 
