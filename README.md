@@ -37,8 +37,11 @@ python emoji_reactor.py
 Make sure you have an emojis/ folder containing:
 
 emojis/
+
 ├── straight.png
+
 ├── smile.png
+
 └── handsup.png
 
 ## 🧩 Tech Stack
