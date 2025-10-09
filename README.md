@@ -30,6 +30,11 @@ It detects **straight face**, **smiling**, and **hands up** gestures from your w
 git clone https://github.com/SouriRishik/FaceEmoji.git
 cd FaceEmoji
 ```
+# Install dependencies
+```bash
+pip install opencv-python mediapipe pygame numpy
+```
+
 ## ▶️ Usage
 ```bash
 python emoji_reactor.py
@@ -55,5 +60,3 @@ emojis/
 
 Real-time emotion-based emoji reaction system built for fun and creative interaction.
 Press _'q'_ to exit the app.
-# Install dependencies
-pip install opencv-python mediapipe pygame numpy
