@@ -15,11 +15,12 @@ It detects **straight face**, **smiling**, and **hands up** gestures from your w
 ---
 
 ## 🖥️ Demo
+
 | Emotion | Example |
 |----------|----------|
-| Straight Face | 😐 |
-| Smiling | 😁 |
-| Hands Up | 🙌 |
+| Straight Face | <img src="emojis/straight.jpg" width="200"/> |
+| Smiling | <img src="emojis/smile.jpg" width="200"/> |
+| Hands Up | <img src="emojis/handsup.jpg" width="200"/> |
 
 ---
 
@@ -30,10 +31,15 @@ It detects **straight face**, **smiling**, and **hands up** gestures from your w
 git clone https://github.com/SouriRishik/FaceEmoji.git
 cd FaceEmoji
 ```
+
+---
+
 # Install dependencies
 ```bash
 pip install opencv-python mediapipe pygame numpy
 ```
+
+---
 
 ## ▶️ Usage
 ```bash
@@ -49,12 +55,16 @@ emojis/
 
 └── handsup.png
 
+---
+
 ## 🧩 Tech Stack
 
 - Python 3
 - MediaPipe – Face and Hand landmark detection
 - OpenCV – Real-time video processing
 - Pygame – Emoji display window
+
+---
 
 ## 📸 Preview
 
